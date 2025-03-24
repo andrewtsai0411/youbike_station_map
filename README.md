@@ -13,3 +13,6 @@
 conda env create -f environment.yml
 ```
 - 啟動環境並執行 `python youbike_station_map.py` 並前往 `http://127.0.0.1:7860`瀏覽成品。
+
+## 其他實作
+除前述利用程式製作的成品外，本專案亦使用相同資料來源，透過`Power BI Desktop`實作此作品，詳見`youbike_station_map.pbix.pbix`。
